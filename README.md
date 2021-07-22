@@ -1,1 +1,2 @@
-# project29.github-io
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
